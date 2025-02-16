@@ -1,4 +1,4 @@
--> FAST NUCES ISB student  
--> 2nd Sem  
+-> Student at FAST NUCES ISB    
+-> 2nd Semester    
 -> Will put all my uni work on here, aswell as personal projects/my solutions to coding problems  
 -> i want to be google ceo heheh
