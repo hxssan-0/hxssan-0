@@ -1,4 +1,7 @@
--> Student at FAST NUCES ISB    
--> 2nd Semester    
--> Will put all my uni work on here, aswell as personal projects/my solutions to coding problems  
--> i want to be google ceo heheh
+👋 Hi, I'm a CS Student at FAST NUCES, Islamabad
+
+    🎓 Sophomore, passionate about systems and software.
+
+    🤖 Currently exploring Machine Learning and Backend Development.
+
+    🧠 Deeply interested in Kernel Development and Research & Development.
